@@ -76,7 +76,7 @@ export default {
 
         clckAceptar2() {
 
-            let uri = "http://0.0.0.0:8082/totalRam";
+            let uri = "http://34.74.101.11:8082/totalRam";
 
             this.axios
                 .get(uri)
@@ -94,7 +94,7 @@ export default {
 
         clckAceptar3() {
 
-            let uri = "http://0.0.0.0:8082/totalRam";
+            let uri = "http://34.74.196.25:8082/totalRam";
 
             this.axios
                 .get(uri)
